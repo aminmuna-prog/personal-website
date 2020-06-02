@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+
+}
+
+section{
+    height: 600px;
+    
+}
+
+section .top{
+    background-image: url(../image/header-bg.png);
+}
+
+
+
+.name-highlight{
+    color: mediumvioletred;
+}
+
+p{
+    color: darkgray;
+    padding: 5px;
+}
+
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    
+}
+
+.write-part{
+    margin-top: 150px;
+}
+
+.half img{
+    width: 100%;
+}
+ 
+.photo{
+    margin-top: 80px;
+}
+
+
+.beauty-button{
+    text-decoration: none;
+    background-color: mediumvioletred;
+    padding: 10px 20px;
+    color: white;
+}
+
+/* latest work */
+
+#latest-work{
+    height: 500px;
+    margin-top: 150px;
+
+    
+}
+
+#latest-work h1{
+    text-align: center;
+    font-weight: bolder;
+}
+
+.top-space{
+    margin-top: 50px;
+}
+
+.latest{
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+
+#latest-work img{
+    width: 100%;
+}
+
+.last-part{
+    height: 400px;
+
+}
+
+.intro{
+    
+    text-align: center;
+}
+
+.client{
+    font-weight: bolder;
+}
+
+.name{
+    margin-top: 50px;
+
+}
+
+.find{
+    margin-top: -20px;
+    color:gray;
+}
+
+.light p{
+    color: white;
+    font-weight: 500;
+
+
+}
+
+.leave{
+    margin-top: 20px;
+}
+
+.light{
+    
+    margin: auto;
+    margin-top: 40px;
+    width: 40%;
+    height: 100px;
+    color: white;
+    background-color: rgb(236, 18, 156);
+}
+
+footer p{
+    text-align: center;
+    padding: 10px;
+}
